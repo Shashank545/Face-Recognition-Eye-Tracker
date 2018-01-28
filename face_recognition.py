@@ -1,5 +1,5 @@
 ####################################################
-# Modified by Nazmi Asri                           #
+# Modified by Shashank Shekhar Sahoo               #
 # Original code: http://thecodacus.com/            #
 # All right reserved to the respective owner       #
 ####################################################
