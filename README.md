@@ -11,12 +11,12 @@ The undelying source code demonstrates the capability of OpenCV Face Recognition
 
 ## Connecting Channels
 Please write me your querie/ feedback/ suggestions @
-shashankshekhar.1663@gmail.com (Gmail)
+< shashankshekhar.1663@gmail.com (Gmail) >
 
 and follow me @
-https://twitter.com/TheSha2nk (Twitter)
-https://www.facebook.com/sha2nkxbenznx (Facebook)
-https://www.instagram.com/the_sha2nk_edition/ (Instagram)
+1. https://twitter.com/TheSha2nk (Twitter)
+2. https://www.facebook.com/sha2nkxbenznx (Facebook)
+3. https://www.instagram.com/the_sha2nk_edition/ (Instagram)
 
 
 
