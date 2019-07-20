@@ -10,8 +10,8 @@ The undelying source code demonstrates the capability of OpenCV Face Recognition
 3. After training completion, the models are ready to recognize the faces and detection real-time movement of eye balls.
 
 ## Connecting Channels
-Please write me your querie/ feedback/ suggestions @
-< shashankshekhar.1663@gmail.com (Gmail) >
+Please write me your queries/feedbacks/suggestions @
+<shashankshekhar.1663@gmail.com (Gmail)>
 
 and follow me @
 1. https://twitter.com/TheSha2nk (Twitter)
